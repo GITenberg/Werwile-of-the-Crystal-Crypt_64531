@@ -1,0 +1,31 @@
+_repo: Werwile-of-the-Crystal-Crypt_64531
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fox, Gardner F. (Gardner Francis)
+    aliases:
+    - Moonchild
+    - Purvis, Clement
+    birthdate: 1911
+    deathdate: 1986
+    gutenberg_agent_id: '52538'
+    url: http://www.gutenberg.org/2009/agents/52538
+    wikipedia: https://en.wikipedia.org/wiki/Gardner_Fox
+description: ''
+gutenberg_issued: '2021-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Archaeologists -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: Werwile of the Crystal Crypt
+url: http://www.gutenberg.org/ebooks/64531
